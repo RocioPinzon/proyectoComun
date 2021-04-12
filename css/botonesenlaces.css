@@ -1,0 +1,120 @@
+body{
+
+    background: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+div{
+
+    padding: 20px;
+    text-align: center;
+}
+h1, h2{
+    text-align: center;
+    margin: 10px 10px 0px 10px;
+    padding: 20px 10px 0px 10px;
+}
+
+
+
+.botonStandar{
+
+    background:#DDA448;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 20px 25px;
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+
+.botonStandH:hover{
+
+    opacity: 0.7;
+
+}
+
+/* Tamaño */
+
+.peq{
+
+    font-size: 14px;
+    padding: 10px 15px;
+}
+.med{
+
+    font-size: 16px;
+    padding: 15px 20px;
+}
+.gran{
+
+    font-size: 18px;
+    padding: 20px 25px;
+
+}
+.extra{
+
+    font-size: 20px;
+    padding: 25px 30px;
+
+}
+
+/* Colores */
+
+.morado{
+
+    background: #B185A7;
+}
+
+.azul{
+
+    background: #46ACC2;
+}
+.verde{
+
+    background: #8FC93A;
+}
+
+/* Forma */
+
+.circ{
+    border-radius: 50px;
+
+}
+
+/* Efecto Sombras */
+
+.sombra{
+
+    box-shadow: 1px 1px 10px #000;
+
+
+}
+.sombra:hover{
+    
+    box-shadow: inset 1px 1px 10px #000;
+}
+
+/* Efectos hover colores */
+
+.cNaranja:hover{
+
+    background:#ED7D3A;
+}
+
+.cMorad:hover{
+
+    background:#593C8F;
+}
+
+.cAzul:hover{
+    
+    background:#276FBF;
+}
+.cVerd:hover{
+    
+    background:#379634;
+}
